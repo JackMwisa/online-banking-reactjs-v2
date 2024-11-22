@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "title": "Terms of Use",
+    "paragraphOne": "Welcome to [Online Bank Name]. By accessing or using our website, mobile app, or online services, you agree to be bound by these Terms of Use. These terms govern your relationship with us and the usage of our products, services, and online tools. Please read them carefully before proceeding.",
+    "paragraphTwo": "You must be at least 18 years old and capable of entering into legally binding agreements to use our services. By creating an account, you agree to provide accurate and complete information and to update your details as needed. Misrepresentation of your identity or financial details is strictly prohibited."
+  },
+  {
+    "id": "2",
+    "title": "Use of Information and Materials",
+    "paragraphOne": "The information and materials provided on this platform are intended solely for personal and non-commercial use. You are not permitted to reproduce, distribute, modify, or use the content for purposes outside your relationship with [Online Bank Name] without explicit consent.",
+    "paragraphTwo": "All tools and calculators available on the website are provided as general guidance tools. These do not constitute professional financial advice, and we recommend consulting with a qualified advisor for personalized financial guidance.",
+    "paragraphThree": "Unauthorized access, scraping, or tampering with any content, data, or security features of our platform is a violation of our terms and may result in legal action."
+  },
+  {
+    "id": "3",
+    "title": "No Warranties",
+    "paragraphOne": "[Online Bank Name] provides its services and materials 'as is' without any guarantees or warranties of any kind, either express or implied. We do not guarantee the accuracy, completeness, or reliability of the information presented.",
+    "paragraphTwo": "While we strive to ensure uninterrupted and secure access to our services, we do not warrant that the platform will be available at all times or free of errors, viruses, or malicious software. You are responsible for taking appropriate measures to protect your devices."
+  },
+  {
+    "id": "4",
+    "title": "Transmitting Over the Internet",
+    "paragraphOne": "Communications over the internet are subject to delays, interruptions, and security risks. While [Online Bank Name] employs industry-standard encryption and security protocols, we cannot guarantee the confidentiality or security of data transmitted to or from our platform. It is your responsibility to ensure your internet connection and devices are secure."
+  },
+  {
+    "id": "5",
+    "title": "Downloading",
+    "paragraphOne": "Any software, documentation, or materials available for download on our platform are provided for your personal use. You may not modify, reverse engineer, or distribute these materials without written authorization.",
+    "paragraphTwo": "[Online Bank Name] is not responsible for any harm or damages caused by the download or use of files, software, or content from our platform. Please ensure your device has up-to-date antivirus and security software."
+  },
+  {
+    "id": "6",
+    "title": "Modification",
+    "paragraphOne": "[Online Bank Name] reserves the right to update or modify these Terms of Use at any time without prior notice. Changes will be effective immediately upon posting to the platform.",
+    "paragraphTwo": "It is your responsibility to review these terms regularly. Continued use of our services after any changes have been posted constitutes acceptance of the revised terms.",
+    "paragraphThree": "We also reserve the right to modify, suspend, or discontinue any service or feature without liability. We will endeavor to provide notice for major changes affecting your use of the platform."
+  }
+]
