@@ -166,8 +166,8 @@ function App() {
                     ? { style: "background-color: #252628" }
                     : { style: "background-color: #fbfbfb" }
                 }
-                title={title ? title : "Thrifty Wallet"}
-                description={description ? description : "Thrifty Description"}
+                title={title ? title : "Gem Wallet"}
+                description={description ? description : "Gem Description"}
                 link={[
                   {
                     rel: "icon",

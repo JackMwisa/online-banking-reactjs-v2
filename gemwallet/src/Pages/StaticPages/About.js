@@ -68,7 +68,7 @@ const About = () => {
           ) : null}
           {!isMobile ? (
             <Typography variant="h6" color="primary">
-              Thrifty Wallet
+              Gem Wallet
             </Typography>
           ) : null}
           <Divider sx={{ mt: 2, mb: 1 }} />

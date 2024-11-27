@@ -275,7 +275,7 @@ const SignUpInterface = () => {
                           variant="body2"
                           fontWeight={300}
                         >
-                          I agree to Terms & conditions of Thrifty Wallet
+                          I agree to Terms & conditions of Gems Wallet
                         </Typography>
                       </Stack>
                       <Stack mb={2}>
@@ -570,7 +570,7 @@ const SignUpInterface = () => {
                     variant="caption"
                     fontWeight={300}
                   >
-                    I agree to Terms & conditions of Thrifty Wallet
+                    I agree to Terms & conditions of Gem Wallet
                   </Typography>
                 </Stack>
                 <Stack mb={2}>

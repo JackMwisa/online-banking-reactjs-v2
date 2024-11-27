@@ -74,7 +74,7 @@ const InstallationModal = ({ open, handleOpen, onClose }) => {
           severity="success"
           sx={{ width: "100%" }}
         >
-          Thrifty Wallet PWA has been installed successfully!
+          Gem Wallet PWA has been installed successfully!
         </Alert>
       </Snackbar>
       <Snackbar
@@ -100,7 +100,7 @@ const InstallationModal = ({ open, handleOpen, onClose }) => {
                   component="p"
                   mb={2}
                 >
-                  Thrifty Wallet is now available as{" "}
+                  Gem Wallet is now available as{" "}
                   <Typography variant="h6" color="primary" component="span">
                     PWA!
                   </Typography>
