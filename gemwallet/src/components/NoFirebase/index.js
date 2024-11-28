@@ -15,7 +15,7 @@ const Index = () => {
           Hey! It seems you have not configured firebase in your project. Please
           follow the{" "}
           <a
-            href="https://www.thriftywalletuidocs.thriftysoft.tech/"
+            href="jackmwisa.com"
             target={"_blank"}
             rel="noreferrer"
             style={{
@@ -23,9 +23,9 @@ const Index = () => {
               fontWeight: "500",
             }}
           >
-            documentation
+           Email me
           </a>{" "}
-          to Configuration firebase
+
         </Typography>
       </Stack>
     </React.Fragment>
