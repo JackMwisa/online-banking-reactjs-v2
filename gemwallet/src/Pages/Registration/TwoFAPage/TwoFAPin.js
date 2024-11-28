@@ -56,7 +56,7 @@ const TwoFAPin = () => {
                     style={{ width: "60px", height: "60px" }}
                   />
                   <Typography color="secondary" variant="h6" mt={3} mb={2}>
-                    Hi, John Doe
+                    Hi, Jack Mwisa
                   </Typography>
                   <Stack
                     direction="row"

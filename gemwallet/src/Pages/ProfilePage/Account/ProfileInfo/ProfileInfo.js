@@ -191,7 +191,7 @@ const ProfileInfo = ({ handleClickMenu }) => {
                 >
                   {profileInformation.userName
                     ? profileInformation.userName
-                    : "John Doe"}
+                    : "Jack Mwisa"}
                 </Typography>
               </Box>
               {/* Email */}

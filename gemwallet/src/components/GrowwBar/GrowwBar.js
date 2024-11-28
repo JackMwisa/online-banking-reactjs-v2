@@ -12,7 +12,7 @@ const TextUnderScoreMobile = styled(LinearProgress)(({ theme }) => ({
   },
   [`& .${linearProgressClasses.bar}`]: {
     borderRadius: 0,
-    backgroundColor: theme.palette.mode === "light" ? "#F9E006" : "#F9E006",
+    backgroundColor: theme.palette.mode === "light" ? "#00aaff" : "#00aaff",
   },
 }));
 

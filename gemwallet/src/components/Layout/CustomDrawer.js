@@ -74,7 +74,7 @@ const CustomDrawer = ({ handleDrawerToggle }) => {
                 <>
                   <Divider
                     sx={{
-                      backgroundColor: "#F9E006",
+                      backgroundColor: "#00aaff",
                       width: "3px",
                       position: "relative",
                       right: "6%",
@@ -117,7 +117,7 @@ const CustomDrawer = ({ handleDrawerToggle }) => {
             <>
               <Divider
                 sx={{
-                  backgroundColor: "#F9E006",
+                  backgroundColor: "#00aaff",
                   width: "3px",
                   position: "relative",
                   right: "6%",

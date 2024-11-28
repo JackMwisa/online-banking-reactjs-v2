@@ -29,7 +29,7 @@
   align-items: center;
 }
 
-.contentBoxMobile > div {
+.contentBoxMobile>div {
   padding: 24px;
 }
 
@@ -39,7 +39,7 @@
 
 .textUnderScore {
   margin-top: 5px;
-  background-color: #f9e006;
+  background-color: #00aaff;
   height: 5px;
   width: 35px;
 }

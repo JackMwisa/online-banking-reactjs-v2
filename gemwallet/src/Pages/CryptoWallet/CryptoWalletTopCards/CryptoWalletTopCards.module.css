@@ -21,8 +21,8 @@
 
 .cardTitle {
   font-weight: 700;
-  background: linear-gradient(#f9e006, #ff6738);
-  background: -webkit-linear-gradient(#f9e006, #ff6738);
+  background: linear-gradient(#00aaff, #ff6738);
+  background: -webkit-linear-gradient(#00aaff, #ff6738);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -44,9 +44,10 @@
 
 .buyCryptoButton {
   padding: 1px;
-  background: linear-gradient(90deg, #f9e006 0%, #f8931a 100%);
+  background: linear-gradient(90deg, #00aaff 0%, #f8931a 100%);
   border-radius: 4px;
 }
+
 .buyCryptoButtonInnerBox {
   border-radius: 4px;
 }
@@ -63,8 +64,8 @@
 
 .cardTitleMobile {
   font-weight: 700;
-  background: linear-gradient(#f9e006, #ff6738);
-  background: -webkit-linear-gradient(#f9e006, #ff6738);
+  background: linear-gradient(#00aaff, #ff6738);
+  background: -webkit-linear-gradient(#00aaff, #ff6738);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

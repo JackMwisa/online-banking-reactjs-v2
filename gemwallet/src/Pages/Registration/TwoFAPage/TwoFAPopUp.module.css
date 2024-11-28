@@ -16,12 +16,12 @@
   align-items: center;
 }
 
-.contentBox > div {
+.contentBox>div {
   transform: scale(0.8);
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
 }
 
-.contentBoxMobile > div {
+.contentBoxMobile>div {
   width: 100%;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .textUnderScore {
-  background-color: #f9e006;
+  background-color: #00aaff;
   height: 7px;
   width: 30px;
 }

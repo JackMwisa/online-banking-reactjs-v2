@@ -18,8 +18,8 @@
 
 .cardTitle {
   font-weight: 700;
-  background: linear-gradient(#f9e006, #ff6738);
-  background: -webkit-linear-gradient(#f9e006, #ff6738);
+  background: linear-gradient(#00aaff, #ff6738);
+  background: -webkit-linear-gradient(#00aaff, #ff6738);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

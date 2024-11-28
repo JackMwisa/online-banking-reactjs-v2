@@ -207,7 +207,7 @@ const SignInInterface = () => {
                   component="span"
                   color="primary"
                   sx={{
-                    borderBottom: "1px solid #F9E006",
+                    borderBottom: "1px solid #00aaff",
                     cursor: "pointer",
                   }}
                   onClick={() => navigate("/login/forgot-pass")}

@@ -56,7 +56,7 @@ const TimeLineArea = () => {
             <Stack direction="row" alignItems="center" spacing={3}>
               <Box
                 className={styles.numberArea}
-                bgcolor={tld.type === "BTC" ? "#6C63FF" : "#F9E006"}
+                bgcolor={tld.type === "BTC" ? "#6C63FF" : "#00aaff"}
               >
                 <Typography color={theme.palette.common.white}>
                   {tld.number}

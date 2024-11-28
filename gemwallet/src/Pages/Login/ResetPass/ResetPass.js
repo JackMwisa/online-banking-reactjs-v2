@@ -135,7 +135,7 @@ const ResetPass = () => {
                 <Typography
                   variant="body2"
                   onClick={() => navigate("/login/sign-in")}
-                  sx={{ borderBottom: "1px solid #F9E006", cursor: "pointer" }}
+                  sx={{ borderBottom: "1px solid #00aaff", cursor: "pointer" }}
                 >
                   Go back to{" "}
                   <Typography variant="body2" component="span" color="primary">

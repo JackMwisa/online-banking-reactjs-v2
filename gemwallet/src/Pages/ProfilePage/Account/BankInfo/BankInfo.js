@@ -226,7 +226,7 @@ const BankInfo = ({ handleClickMenu }) => {
                 >
                   {bankInformation.bankAccountHolderName
                     ? bankInformation.bankAccountHolderName
-                    : "John Doe"}
+                    : "Jack Mwisa"}
                 </Typography>
               </Box>
             </Paper>

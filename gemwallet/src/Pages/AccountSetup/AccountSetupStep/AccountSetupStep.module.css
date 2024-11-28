@@ -1,5 +1,5 @@
 .textUnderScore {
-  background-color: #f9e006;
+  background-color: #00aaff;
   height: 5px;
   width: 35px;
 }
@@ -16,7 +16,7 @@
   border-radius: 10px;
 }
 
-.uploadedImageBox > img {
+.uploadedImageBox>img {
   height: 88px;
   width: 129px;
 }

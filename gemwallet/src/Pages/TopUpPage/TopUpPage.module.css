@@ -21,7 +21,7 @@
   padding-bottom: 1rem;
 }
 
-.contentBox > div {
+.contentBox>div {
   width: calc(100% - 50%);
 }
 
@@ -38,10 +38,12 @@
   border-radius: 4px;
   border: none;
 }
+
 /* Provider Selection Area */
 .providerSelectBox {
   margin-top: 2rem;
 }
+
 .providerSelectBoxMobile {
   margin-top: 1rem;
   margin-bottom: 2rem;
@@ -79,6 +81,7 @@
   padding: 2rem;
   border-radius: 10px;
 }
+
 .cardBoxMobile {
   padding: 1rem;
   height: 100%;
@@ -89,10 +92,10 @@
 }
 
 .payInputCoupon {
-  color: #f9e006;
+  color: #00aaff;
   padding: 2px 10px;
   border-radius: 4px;
-  border: 1px dashed #f9e006;
+  border: 1px dashed #00aaff;
   font-weight: 300;
 }
 

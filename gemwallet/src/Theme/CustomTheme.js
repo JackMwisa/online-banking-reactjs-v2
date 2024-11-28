@@ -24,7 +24,7 @@ const CustomTheme = () => {
             ? {
                 // palette values for light mode
                 primary: {
-                  main: "#F9E006",
+                  main: "#00aaff",
                   // main: "#F96706",
                 },
                 secondary: {
@@ -50,13 +50,13 @@ const CustomTheme = () => {
                   paper: "#fbfbfb",
                   surface: "#ffffff",
                   card: "#f8f8f8",
-                  primary: "#F9E006",
+                  primary: "#00aaff",
                 },
                 text: {
                   // primary: "#434547",
                   primary: "#111111",
                   secondary: "#434547",
-                  tertiary: "#F9E006",
+                  tertiary: "#00aaff",
                   success: "#58BD7D",
                   orange: "#FF9100",
                 },
@@ -68,7 +68,7 @@ const CustomTheme = () => {
             : {
                 // palette values for dark mode
                 primary: {
-                  main: "#F9E006",
+                  main: "#00aaff",
                 },
                 secondary: {
                   main: "#FFFFFF",
@@ -92,12 +92,12 @@ const CustomTheme = () => {
                   paper: "#252628",
                   surface: "#2B2B2B",
                   card: "#1B1B1B",
-                  primary: "#F9E006",
+                  primary: "#00aaff",
                 },
                 text: {
                   primary: "#ffffff",
                   secondary: "#C4C4C4",
-                  tertiary: "#F9E006",
+                  tertiary: "#00aaff",
                   success: "#58BD7D",
                   orange: "#FF9100",
                 },
