@@ -67,7 +67,7 @@ const CryptoWalletTopCards = () => {
                   className={styles.cardTitle}
                   sx={{ fontSize: { xs: "10px", sm: "24px", md: "24px" } }}
                 >
-                  $73,275
+                  $0
                 </Typography>
               </Box>
               <Box className={styles.cardImageArea}>
@@ -109,7 +109,7 @@ const CryptoWalletTopCards = () => {
                   color="secondary"
                   variant="body2"
                 >
-                  Buy Cryptocurrency from FIAT
+            Add money to Wallet
                 </Typography>
                 {theme.palette.mode === "dark" ? (
                   <Box mt={3} className={styles.buyCryptoButton}>
@@ -134,7 +134,7 @@ const CryptoWalletTopCards = () => {
                             fontSize: { xs: "10px", md: "14px" },
                           }}
                         >
-                          Buy Crypto
+                          Deposit
                         </Typography>
                       </Button>
                     </Box>

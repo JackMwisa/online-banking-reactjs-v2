@@ -43,7 +43,7 @@ const CryptoWalletTopCardsMobile = () => {
             Total fund value
           </Typography>
           <Typography variant="h4" className={styles.cardTitleMobile}>
-            $73,275
+            $0
           </Typography>
         </Box>
         <Box className={styles.cardImageAreaMobile}>
@@ -68,7 +68,7 @@ const CryptoWalletTopCardsMobile = () => {
       >
         <Box>
           <Typography color="secondary" variant="caption">
-            Buy Cryptocurrency from FIAT
+            Add money to Wallet
           </Typography>
           {theme.palette.mode === "dark" ? (
             <Button

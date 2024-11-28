@@ -1,8 +1,8 @@
 {
-  "app_name": "Thrifty Wallet",
-  "short_name": "Thrifty Wallet",
-  "name": "Thrifty Wallet",
-  "description": "Thrifty Wallet A Crypto Wallet Solution, all in one place",
+  "app_name": "Gem Wallet",
+  "short_name": "Gem Wallet",
+  "name": "Gem Wallet",
+  "description": "Gem Wallet A Crypto Wallet Solution, all in one place",
   "icons": [
     {
       "src": "favicon.ico",
