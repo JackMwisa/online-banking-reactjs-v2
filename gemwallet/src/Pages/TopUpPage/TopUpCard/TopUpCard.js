@@ -48,23 +48,22 @@ const TopUpAuthorization = React.lazy(() =>
 const coinNamesData = [
   {
     id: "1",
-    name: "Bitcoin",
-    icon: BitCoinIcon,
-  },
+    name: "US Dollars",
+    icon: "https://uxwing.com/wp-content/themes/uxwing/download/e-commerce-currency-shopping/credit-card-color-icon.svg",  },
   {
     id: "2",
-    name: "Ethereum",
-    icon: EthereumIcon,
+    name: "Euro",
+    icon: "https://uxwing.com/wp-content/themes/uxwing/download/e-commerce-currency-shopping/credit-card-color-icon.svg",
   },
   {
     id: "3",
-    name: "Cardano",
-    icon: CardanoIcon,
+    name: "British Pound",
+    icon: "https://uxwing.com/wp-content/themes/uxwing/download/e-commerce-currency-shopping/credit-card-color-icon.svg",
   },
   {
     id: "4",
-    name: "Litecoin",
-    icon: LiteCoinIcon,
+    name: "Uganda Shillings",
+    icon: "https://uxwing.com/wp-content/themes/uxwing/download/e-commerce-currency-shopping/credit-card-color-icon.svg",
   },
 ];
 
@@ -80,7 +79,7 @@ const currenciesData = [
   },
   {
     id: "3",
-    name: "INR",
+    name: "UGX",
   },
 ];
 
@@ -295,7 +294,7 @@ Deposit
             sx={{ textTransform: "capitalize" }}
             component="span"
           >
-            RATE: 1BTC = $38,929.40
+            RATE: 1USD = $38,929
           </Typography>
           <Typography
             color="primary"

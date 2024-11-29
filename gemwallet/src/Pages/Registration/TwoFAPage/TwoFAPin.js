@@ -64,7 +64,7 @@ const TwoFAPin = () => {
                     spacing={"5px"}
                   >
                     <Typography variant="body2" color="secondary">
-                      john@doe.com
+                      jackmwisa@gmail.com
                     </Typography>
                     <Typography
                       variant="body2"
@@ -134,7 +134,7 @@ const TwoFAPin = () => {
                     spacing={"5px"}
                   >
                     <Typography variant="body2" color="secondary">
-                      john@doe.com
+                    jackmwisa@gmail.com
                     </Typography>
                     <Typography
                       variant="body2"

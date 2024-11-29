@@ -54,7 +54,7 @@ const SignInInterface = () => {
   const isMobile = useMediaQuery(theme.breakpoints.down("md"));
 
   // Fake login creds
-  const fakeEmail = "john@doe.com";
+  const fakeEmail = "";
   const fakePass = "123456";
 
   const handleLoginUser = (e) => {

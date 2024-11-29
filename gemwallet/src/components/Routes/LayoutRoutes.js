@@ -7,7 +7,7 @@ const LayoutRoutes = [
   {
     id: 2,
     path: "/fiat-wallet",
-    name: "Deposit",
+    name: "Deposit & Withdraw",
   },
   {
     id: 3,

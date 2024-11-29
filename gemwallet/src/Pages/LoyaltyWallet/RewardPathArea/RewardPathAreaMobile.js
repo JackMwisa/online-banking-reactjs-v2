@@ -63,7 +63,7 @@ const RewardPathAreaMobile = ({ handleCloseNav }) => {
                 Available Points
               </Typography>
               <Typography variant="h3" color="#2B2B2B" fontWeight={700}>
-                1040
+                0
               </Typography>
             </Box>
             <Box>
