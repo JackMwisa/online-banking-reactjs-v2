@@ -74,7 +74,7 @@ const InstallationModal = ({ open, handleOpen, onClose }) => {
           severity="success"
           sx={{ width: "100%" }}
         >
-          Gem Wallet PWA has been installed successfully!
+          VU Banking PWA has been installed successfully!
         </Alert>
       </Snackbar>
       <Snackbar
@@ -100,7 +100,7 @@ const InstallationModal = ({ open, handleOpen, onClose }) => {
                   component="p"
                   mb={2}
                 >
-                  Gem Wallet is now available as{" "}
+                  VU Banking is now available as{" "}
                   <Typography variant="h6" color="primary" component="span">
                     PWA!
                   </Typography>

@@ -211,7 +211,7 @@ const ProfileInfo = ({ handleClickMenu }) => {
                 >
                   {profileInformation.userEmail
                     ? profileInformation.userEmail
-                    : "john@doe.com"}
+                    : "jeanjacques@gmail.com"}
                 </Typography>
               </Box>
               {/* Phone */}

@@ -12,9 +12,9 @@ import { Box } from "@mui/system";
 import { LightUIButtonPrimary } from "../../../Utilities/LightUIButtons";
 
 // Card Images
-import TotalFundValueImage from "../../../assets/totalFundValueImage.svg";
+import TotalFundValueImage from "../../../assets/buyCryptoCurrencyCardImg.svg";
 import BuyCryptoCardImage from "../../../assets/buyCryptoCurrencyCardImg.svg";
-import TotalFundValueImageLight from "../../../assets/totalFundValueImageLight.svg";
+import TotalFundValueImageLight from "../../../assets/buyCryptoCurrencyCardImgLight.svg";
 import BuyCryptoCardImageLight from "../../../assets/buyCryptoCurrencyCardImgLight.svg";
 
 // Component Loader
@@ -86,7 +86,7 @@ const CryptoWalletTopCardsMobile = () => {
                   textTransform: "capitalize",
                 }}
               >
-                Buy Crypto
+              Deposit
               </Typography>
             </Button>
           ) : (
@@ -105,7 +105,7 @@ const CryptoWalletTopCardsMobile = () => {
                   textTransform: "capitalize",
                 }}
               >
-                Buy Crypto
+                Deposit
               </Typography>
             </LightUIButtonPrimary>
           )}

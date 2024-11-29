@@ -156,7 +156,7 @@ const CryptoWalletTopCards = () => {
                         fontSize: { xs: "10px", md: "14px" },
                       }}
                     >
-                      Buy Crypto
+                      Deposit
                     </Typography>
                   </LightUIButtonPrimary>
                 )}

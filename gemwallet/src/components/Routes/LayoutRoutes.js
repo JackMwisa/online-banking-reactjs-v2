@@ -2,17 +2,17 @@ const LayoutRoutes = [
   {
     id: 1,
     path: "/crypto-wallet",
-    name: "My Wallet",
+    name: "Vu Banking",
   },
   {
     id: 2,
     path: "/fiat-wallet",
-    name: "Fiat Wallet",
+    name: "Deposit",
   },
   {
     id: 3,
     path: "/loyalty-wallet",
-    name: "Loyalty Wallet",
+    name: "Transfer",
   },
 ];
 

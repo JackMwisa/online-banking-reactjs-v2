@@ -1,22 +1,22 @@
 [
   {
     "id": "1",
-    "accordionTitle": "What is Gem Wallet?",
-    "accordionBody": "Gem Wallet is a secure online wallet that allows you to store, manage, and send various cryptocurrencies with ease. Whether you are a beginner or an experienced user, Gem Wallet provides a user-friendly interface and advanced security features to keep your assets safe."
+    "accordionTitle": "What is VU Banking?",
+    "accordionBody": "VU Banking is a secure online wallet that allows you to store, manage, and send various cryptocurrencies with ease. Whether you are a beginner or an experienced user, VU Banking provides a user-friendly interface and advanced security features to keep your assets safe."
   },
   {
     "id": "2",
-    "accordionTitle": "How do I create a Gem Wallet account?",
-    "accordionBody": "Creating an account with Gem Wallet is simple. Download the app or sign up on our website, enter your email, create a strong password, and enable two-factor authentication (2FA) for added security. Once registered, you'll have access to all the features of the wallet, including deposit, withdrawal, and transaction history."
+    "accordionTitle": "How do I create a VU Banking account?",
+    "accordionBody": "Creating an account with VU Banking is simple. Download the app or sign up on our website, enter your email, create a strong password, and enable two-factor authentication (2FA) for added security. Once registered, you'll have access to all the features of the wallet, including deposit, withdrawal, and transaction history."
   },
   {
     "id": "3",
-    "accordionTitle": "What cryptocurrencies can I store in Gem Wallet?",
-    "accordionBody": "Gem Wallet supports a wide range of popular cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), and many more. We are constantly adding new cryptocurrencies to provide a comprehensive service for all your digital asset needs."
+    "accordionTitle": "What cryptocurrencies can I store in VU Banking?",
+    "accordionBody": "VU Banking supports a wide range of popular cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), and many more. We are constantly adding new cryptocurrencies to provide a comprehensive service for all your digital asset needs."
   },
   {
     "id": "4",
-    "accordionTitle": "How do I send or receive funds using Gem Wallet?",
+    "accordionTitle": "How do I send or receive funds using VU Banking?",
     "accordionBody": "Sending or receiving funds is quick and easy. To send funds, simply enter the recipient's wallet address, select the amount you want to send, and confirm the transaction. To receive funds, provide your unique wallet address to the sender. You can also generate QR codes for easy sharing of your address."
   }
 ]

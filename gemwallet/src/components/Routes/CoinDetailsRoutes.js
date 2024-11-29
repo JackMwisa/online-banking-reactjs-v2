@@ -1,22 +1,22 @@
 const CoinDetailsRoutes = [
   {
     id: "1",
-    name: "Bitcoin",
+    name: " USD ($)",
     path: "/wallets/Bitcoin",
   },
   {
     id: "2",
-    name: "Ethereum",
+    name: "EUR (€)",
     path: "/wallets/Ethereum",
   },
   {
     id: "3",
-    name: "Litecoin",
+    name: "GBP (£)",
     path: "/wallets/Litecoin",
   },
   {
     id: "4",
-    name: "Cardano",
+    name: "UGX (shs)",
     path: "/wallets/Cardano",
   },
 ];

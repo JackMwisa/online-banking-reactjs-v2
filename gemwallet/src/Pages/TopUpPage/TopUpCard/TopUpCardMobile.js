@@ -154,9 +154,7 @@ const TopUpCardMobile = () => {
           component="p"
           color="text.secondary"
         >
-          Moonpay is a secure way to buy cryptocurrency with your payment
-          method. Start by entering an amount below to get a quote before making
-          a purchase
+          Deposit
         </Typography>
         <Typography mt={2} mb={1} variant="button" component="p">
           you topup
