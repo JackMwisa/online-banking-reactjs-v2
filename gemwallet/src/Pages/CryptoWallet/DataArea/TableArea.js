@@ -42,10 +42,10 @@ const LazyImageComponent = React.lazy(() =>
 // table header
 const tableHeader = [
   {
-    name: "Coin",
+    name: "Currency",
   },
   {
-    name: "Price",
+    name: "Rate",
   },
   {
     name: "Balance",
@@ -129,13 +129,13 @@ const TableArea = () => {
                       </Stack>
                     </StyledTableCell>
                     <StyledTableCell align="left">
-                      $ {cd.coinPrice}
+                      UGX {cd.coinPrice}
                     </StyledTableCell>
                     <StyledTableCell align="left">
                       {cd.coinBTC} {cd.coinCode}
                     </StyledTableCell>
                     <StyledTableCell align="left">
-                      ${" "}
+                      UGX{" "}
                       {(
                         parseFloat(cd.coinPrice) * parseFloat(cd.coinBTC)
                       ).toFixed(2)}
