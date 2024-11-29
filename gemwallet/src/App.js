@@ -166,7 +166,7 @@ function App() {
                     ? { style: "background-color: #252628" }
                     : { style: "background-color: #fbfbfb" }
                 }
-                title={title ? title : "Gem Wallet"}
+                title={title ? title : "VU Banking"}
                 description={description ? description : "Gem Description"}
                 link={[
                   {

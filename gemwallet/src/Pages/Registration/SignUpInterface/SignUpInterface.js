@@ -570,7 +570,7 @@ const SignUpInterface = () => {
                     variant="caption"
                     fontWeight={300}
                   >
-                    I agree to Terms & conditions of Gem Wallet
+                    I agree to Terms & conditions of VU Banking
                   </Typography>
                 </Stack>
                 <Stack mb={2}>

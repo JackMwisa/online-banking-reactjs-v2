@@ -1,8 +1,8 @@
 {
-  "app_name": "Gem Wallet",
-  "short_name": "Gem Wallet",
-  "name": "Gem Wallet",
-  "description": "Gem Wallet A Crypto Wallet Solution, all in one place",
+  "app_name": "VU Banking",
+  "short_name": "VU Banking",
+  "name": "VU Banking",
+  "description": "VU Banking A Crypto Wallet Solution, all in one place",
   "icons": [
     {
       "src": "favicon.ico",
