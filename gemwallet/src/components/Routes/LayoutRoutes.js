@@ -2,7 +2,7 @@ const LayoutRoutes = [
   {
     id: 1,
     path: "/crypto-wallet",
-    name: "My Wallet",
+    name: "Dashboard",
   },
   {
     id: 2,
